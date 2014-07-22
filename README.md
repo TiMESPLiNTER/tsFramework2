@@ -5,6 +5,7 @@ The new tsFramework will fix some issues from the first version and brings the f
 
 The new framework will be
 
+* requiring PHP >5.4
 * using decoupled components
 * using composer as dependency manager
 * unit testable
