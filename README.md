@@ -9,7 +9,7 @@ The new framework will be
 * using decoupled components
 * using [composer](https://getcomposer.org/) as dependency manager
 * unit testable with [PHPUnit](http://phpunit.de/)
-* using [Travis-CI](https://travis-ci.org/) for continues integration
+* using [Travis-CI](https://travis-ci.org/) for continuous integration
 
 ## Basic components
 So the new framework is basically just a collection and combination of decoupled modules.
