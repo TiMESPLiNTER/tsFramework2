@@ -17,6 +17,7 @@ of components can be altered at any time so it is not concluding.
 
 * [tsfw-common](https://github.com/TiMESPLiNTER/tsfw-common) - implemented
 * [tsfw-session](https://github.com/TiMESPLiNTER/tsfw-session) - implemented
+* tsfw-config - in progress
 * tsfw-routing
 * tsfw-http
 * tsfw-core
