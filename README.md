@@ -24,7 +24,7 @@ A library which maps most used native `session_*` functions of PHP to an OO inte
 * **tsfw-config** *in progress*  
 A simple configuration module which can read YAML, JSON, XML and plain PHP config files but can also be extended to understand other formats.
 * **tsfw-routing**  
-For routing URLs to controller and for fetching parameters in them
+For matching URIs to controllers and fetching parameters out of them
 * **tsfw-http**  
 Dealing with HTTP requests and responses in a very simple OO manner.
 * **tsfw-core**  
