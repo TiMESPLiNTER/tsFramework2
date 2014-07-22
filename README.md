@@ -21,10 +21,14 @@ of components can be altered at any time so it is not concluding.
 PHP library to abstract common operations with strings, arrays, etc
 * **[tsfw-session](https://github.com/TiMESPLiNTER/tsfw-session)** *implemented*  
 A library which maps most used native `session_*` functions of PHP to an OO interface. And provides some basic implementations of it.
-* **tsfw-config** *in progress*
-* **tsfw-routing**
-* **tsfw-http**
-* **tsfw-core**
+* **tsfw-config** *in progress*  
+A simple configuration module which can read YAML, JSON, XML and plain PHP config files but can also be extended to understand other formats.
+* **tsfw-routing**  
+For routing URLs to controller and for fetching parameters in them
+* **tsfw-http**  
+Dealing with HTTP requests and responses in a very simple OO manner.
+* **tsfw-core**  
+The flow of the framework and the place where all the components get linked to each other.
 
 ## Additional components
 
