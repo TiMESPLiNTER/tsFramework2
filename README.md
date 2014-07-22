@@ -21,7 +21,7 @@ of components can be altered at any time so it is not concluding.
 * tsfw-http
 * tsfw-core
 
-There will be additional components which will be available for the framework but not needed to work.
+There will be additional (optional) components which will be available for the framework but not needed to get it working.
 
 * [tsfw-db](https://github.com/TiMESPLiNTER/tsfw-db) - in progress
 * [tsfw-auth](https://github.com/TiMESPLiNTER/tsfw-auth) - in progress
