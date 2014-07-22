@@ -30,6 +30,7 @@ A library which maps most used native `session_*` functions of PHP to an OO inte
 
 There will be additional (optional) components which will be available for the framework but not needed to get it working.
 
-* **[tsfw-db](https://github.com/TiMESPLiNTER/tsfw-db)** *in progress*
+* **[tsfw-db](https://github.com/TiMESPLiNTER/tsfw-db)** *in progress*  
+A very easy to use database library which extends PDO with some nice and straight-ahead methods.
 * **[tsfw-auth](https://github.com/TiMESPLiNTER/tsfw-auth)** *in progress*  
 A library to authenticate with different methods from different data sources
