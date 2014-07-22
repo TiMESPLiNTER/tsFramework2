@@ -5,11 +5,11 @@ The new tsFramework will fix some issues from the first version and brings the f
 
 The new framework will be
 
-* requiring PHP 5.4 or higher
+* requiring [PHP 5.4 or higher](http://php.net/manual/de/migration54.php)
 * using decoupled components
-* using composer as dependency manager
-* unit testable
-* using continues integration based on Travis-CI
+* using [composer](https://getcomposer.org/) as dependency manager
+* unit testable with [PHPUnit](http://phpunit.de/)
+* using [Travis-CI](https://travis-ci.org/) for continues integration
 
 ## Basic components
 So the new framework is basically just a collection and combination of decoupled modules.
