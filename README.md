@@ -11,6 +11,7 @@ The new framework will be
 * unit testable
 * using continues integration based on Travis-CI
 
+## Basic components
 So the new framework is basically just a collection and combination of decoupled modules.
 
 The following list shows all the components that the framework will need and if they are already implemented. The list
@@ -22,6 +23,8 @@ of components can be altered at any time so it is not concluding.
 * tsfw-routing
 * tsfw-http
 * tsfw-core
+
+## Additional components
 
 There will be additional (optional) components which will be available for the framework but not needed to get it working.
 
