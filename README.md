@@ -3,7 +3,7 @@ tsFramework2
 
 The new tsFramework will fix some issues from the first version and brings the framework to up-to-date technologies.
 
-The new framework will be
+The new framework version 2 will be
 
 * requiring [PHP 5.4 or higher](http://php.net/manual/de/migration54.php)
 * using decoupled components
@@ -24,7 +24,7 @@ A library which maps most used native `session_*` functions of PHP to an OO inte
 * **tsfw-config** *in progress*  
 A simple configuration module which can read YAML, JSON, XML and plain PHP config files but can also be extended to understand other formats.
 * **tsfw-routing**  
-For matching URIs to controllers and fetching parameters out of them
+For matching URIs to controllers and fetching parameters out of them.
 * **tsfw-http**  
 Dealing with HTTP requests and responses in a very simple OO manner.
 * **tsfw-core**  
