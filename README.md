@@ -28,7 +28,7 @@ For matching URIs to controllers and fetching potential parameters out of them.
 * **[tsfw-http](https://github.com/TiMESPLiNTER/tsfw-http)** *implemented*    
 Dealing with HTTP requests and responses in a very simple OO manner.
 * **tsfw-i18n**  
-Dealing with different languages and locale settings.
+Dealing with different languages and other locale conventions.
 * **tsfw-core**  
 The flow of the framework and the place where all the components get linked to each other.
 
