@@ -27,7 +27,7 @@ A simple configuration module which can read YAML, JSON, XML and plain PHP confi
 For matching URIs to controllers and fetching potential parameters out of them.
 * **[tsfw-http](https://github.com/TiMESPLiNTER/tsfw-http)** *implemented*    
 Dealing with HTTP requests and responses in a very simple OO manner.
-* **tsfw-i18n**  
+* **[tsfw-i18n](https://github.com/TiMESPLiNTER/tsfw-i18n)** *implemented*
 Dealing with different languages and other locale conventions.
 * **tsfw-di** *in progress*
 A simple and fast dependency injection container.
