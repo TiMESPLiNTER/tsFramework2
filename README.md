@@ -29,6 +29,8 @@ For matching URIs to controllers and fetching potential parameters out of them.
 Dealing with HTTP requests and responses in a very simple OO manner.
 * **tsfw-i18n**  
 Dealing with different languages and other locale conventions.
+* **tsfw-di** *in progress*
+A simple and fast dependency injection container.
 * **tsfw-core**  
 The flow of the framework and the place where all the components get linked to each other.
 
